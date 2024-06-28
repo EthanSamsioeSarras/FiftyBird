@@ -4,6 +4,5 @@ https://www.youtube.com/watch?v=pGpn2YMXtdg&list=PLWKjhJtqVAbluXJKKbCIb4xd7fcRkp
 
 GD50 2018 Flappy Bird Remake
 
--- Main Program --
 Author: Colton Ogden
 cogden@cs50.harvard.edu
