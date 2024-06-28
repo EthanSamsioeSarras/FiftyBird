@@ -3,3 +3,7 @@ A flappy bird remake. Following Harvard's CS50's Intro to Game Development on th
 https://www.youtube.com/watch?v=pGpn2YMXtdg&list=PLWKjhJtqVAbluXJKKbCIb4xd7fcRkpzoz&index=3
 
 GD50 2018 Flappy Bird Remake
+
+-- Main Program --
+Author: Colton Ogden
+cogden@cs50.harvard.edu
