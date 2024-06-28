@@ -10,6 +10,7 @@ push = require 'push'
 -- methods
 --
 -- https://github.com/vrld/hump/blob/master/class.lua
+Class = require 'class'
 
 require 'StateMachine'
 
